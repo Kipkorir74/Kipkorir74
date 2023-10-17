@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kipkorir74" alt="kipkorir74" /></a> </p>
 
-- 🌱 I’m currently learning **Spring Boot, ReactJS**
-
-- 🤝 I’m looking for help with **MERN**
+- 🌱 I’m currently learning **MERN**
 
 - 👨‍💻 All of my projects are available at [https://grahamonchagwa.netlify.app/](https://grahamonchagwa.netlify.app/)
 
