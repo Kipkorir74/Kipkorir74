@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Graham Onchagwa</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate Software Developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kipkorir74&label=Profile%20views&color=0e75b6&style=flat" alt="kipkorir74" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://grahamonchagwa.netlify.app/](https://grahamonchagwa.netlify.app/)
+- 👨‍💻 Need to know more about me? Visit [https://grahamonchagwa.netlify.app/](https://grahamonchagwa.netlify.app/)
 
-- 📫 How to reach me **grahamonchagwa@gmail.com**
+- 📫 How to reach me via email at **grahamonchagwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
