@@ -9,7 +9,7 @@
 
 - 👨‍💻 Need to know more about me? Visit [https://grahamonchagwa.netlify.app/](https://grahamonchagwa.netlify.app/)
 
-- 📫 How to reach me via email at **grahamonchagwa@gmail.com**
+- 📫 Reach me via email at **grahamonchagwa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
